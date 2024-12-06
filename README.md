@@ -1,5 +1,9 @@
 <h1 align="center">  Beyond the Numbers: Investigating the Drivers of Life Expectancy Across the World</h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9fe5adcd-b297-4fb4-9b1c-2e0f7708537f" alt="An informative image symbolizing life expectancy across the world, incorporating visual elements such as a globe or map with high focus on life expectancy data" width="400"/>
+</p>
+
 <h2>Summary</h2>
 This project looks at the factors that influence life expectancy in countries worldwide. Life expectancy is a key indicator of health and well-being, shaped by socioeconomic, healthcare, and lifestyle factors. By leveraging data from the World Health Organization, this analysis identifies patterns and relationships that determine why some countries achieve longer lifespans than others.
 <br />
@@ -71,5 +75,4 @@ Education and resource allocation significantly impact life expectancy more than
 3. 🌱 For Individuals: While this project centers on countries, individuals can reflect on personal health factors to make informed lifestyle choices.
 
 This project underlines the importance of systemic and individual efforts in promoting longer, healthier lives globally.
-
 
