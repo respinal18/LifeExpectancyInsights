@@ -62,7 +62,7 @@ Education and resource allocation significantly impact life expectancy more than
 
 - Countries with lower life expectancy often face challenges in these areas, providing opportunities for targeted improvements.
 
-<h2>Next Steps</h2>
+<h2>Recommendations</h2>
 
 1. 🔍 For Researchers: Expand the analysis to include more granular data, such as urban vs. rural life expectancy disparities.
 
